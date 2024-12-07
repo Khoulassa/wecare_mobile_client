@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "761653520049",
+    "project_id": "we-care-sa",
+    "storage_bucket": "we-care-sa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761653520049:android:c64863c2f0bab42599a490",
+        "android_client_info": {
+          "package_name": "com.example.we_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761653520049-59hkh5nsf77p5dv1blm719057a2b72hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.we_care",
+            "certificate_hash": "fbfd572cbf983a3fac597f57f7a5fa2fc6803197"
+          }
+        },
+        {
+          "client_id": "761653520049-dmrqa7smq485hl2709gjh691cannd0t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr4sorHqnjykQEGmtRLSsothzKEgERpMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761653520049-dmrqa7smq485hl2709gjh691cannd0t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

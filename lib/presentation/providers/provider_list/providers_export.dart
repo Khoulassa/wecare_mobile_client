@@ -1,0 +1,15 @@
+export 'package:we_care/presentation/providers/auth_provider.dart';
+export 'package:we_care/presentation/providers/notification_provider.dart';
+export 'package:we_care/presentation/providers/setting/feedBack_provider.dart';
+export 'package:we_care/presentation/providers/order_provider.dart';
+export 'package:we_care/presentation/providers/Forms_provider.dart';
+export 'package:we_care/presentation/providers/home_provider.dart';
+export 'package:we_care/presentation/providers/profile_provider.dart';
+export 'package:we_care/presentation/providers/sharedpreference_provider.dart';
+export 'package:we_care/presentation/providers/services_provider.dart';
+export 'package:we_care/presentation/providers/setting/children_provider.dart';
+export 'package:we_care/presentation/providers/setting/address_provider.dart';
+export 'package:we_care/presentation/providers/setting/contact_provider.dart';
+export 'package:we_care/presentation/providers/setting/aboutus_provider.dart';
+export 'package:we_care/presentation/providers/setting/terms_provider.dart';
+export 'package:we_care/presentation/providers/setting/faq_provider.dart';
